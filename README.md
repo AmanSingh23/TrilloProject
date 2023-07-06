@@ -23,6 +23,10 @@ Welcome to our exquisite hotel, where luxury meets tranquility. Located in [loca
 
 https://github.com/AmanSingh23/TrilloProject/assets/49775787/fb029b05-ce06-43ca-a545-140e0da86348
 
+## Developed By
+
+Aman Singh (Me)
+
 ## Designed By
 
 Jonas Schmedtmann
